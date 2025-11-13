@@ -1,7 +1,7 @@
 {
-  "name": "aparatos",
-  "version": "1.0.0",
-  "wollokVersion": "3.0.0",
-  "author": "leo",
+  "name": "rutina",
+  "version": "1.0.2",
+  "wollokVersion": "3.4.0",
+  "author": "isa",
   "license": "ISC"
 }
